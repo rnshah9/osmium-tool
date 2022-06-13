@@ -1,0 +1,5 @@
+project: osmium-tool
+target: osumium
+cmds:
+  - cmd: /repo/build/src/osmium fileinfo /test.osm
+    filepath: /test.osm
