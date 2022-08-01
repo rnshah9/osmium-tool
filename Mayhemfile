@@ -2,3 +2,4 @@ project: osmium-tool
 target: osumium
 cmds:
   - cmd: /install/bin/osmium fileinfo @@
+    filepath: /test.osm
